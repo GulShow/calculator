@@ -59,4 +59,15 @@ export const Styles = StyleSheet.create({
         fontWeight: '200',
         alignSelf: "flex-end",
     },
+    operationView: {
+        color: "#ff9700",
+        fontSize: 50,
+        fontWeight: '500'
+    },
+    wrapper: {
+        height: 120,
+        width: "90%",
+        justifyContent: "flex-end",
+        alignSelf: "center",
+    }
 })
